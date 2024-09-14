@@ -14,25 +14,25 @@ else {
 
 // second question's answer
 
-// var per = prompt("Enter your Percentage");
-// if (per < 25){
-//     console.log("Your Garde is D")
-// }
-// else if(per > 25 && per < 45){
-//     console.log("Your Garde is C")
-// }
-// else if(per > 45 && per < 50){
-//     console.log("Your Garde is B")
-// }
-// else if(per > 50 && per < 60){
-//     console.log("Your Garde is B+")
-// }
-// else if(per > 60 && per < 80){
-//     console.log("Your Garde is A")
-// }
-// else{
-//     console.log("Your Garde is A+")
-// }
+var per = prompt("Enter your Percentage");
+if (per < 25){
+    console.log("Your Garde is D")
+}
+else if(per > 25 && per < 45){
+    console.log("Your Garde is C")
+}
+else if(per > 45 && per < 50){
+    console.log("Your Garde is B")
+}
+else if(per > 50 && per < 60){
+    console.log("Your Garde is B+")
+}
+else if(per > 60 && per < 80){
+    console.log("Your Garde is A")
+}
+else{
+    console.log("Your Garde is A+")
+}
 
 // Third question's answer 
 
